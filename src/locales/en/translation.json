@@ -1,0 +1,512 @@
+{
+	"header": {
+		"subtitle": "The future of cities",
+		"signin": "Sign In",
+		"profile": "Profile"
+	},
+	"home": {
+		"main": {
+			"suptitle": "The platform, where every person can help nature",
+			"subtitle": "The platform where every person can help nature. Discover sustainable solutions, connect with eco-conscious communities, and build a greener tomorrow together",
+			"explore": "Explore Platform",
+			"watch": "Watch Demo"
+		},
+		"titles": {
+			"problemsTitle": {
+				"title": "The Environmental Challenge",
+				"subtitle": "Our planet faces unprecedented ecological challenges"
+			},
+			"solutionsTitle": {
+				"title": "EcoCityHub: The Solution",
+				"subtitle": "Innovative approaches to protect our environment"
+			},
+			"howItWorksTitle": {
+				"title": "How It Works",
+				"subtitle": "Three simple steps to make a difference"
+			},
+			"communityTitle": {
+				"title": "Community Voices",
+				"subtitle": "What our users say about EcoCityHub"
+			}
+		},
+		"problems": {
+			"climate": {
+				"title": "Climate Change",
+				"description": "Global warming and emissions are increasing rapidly",
+				"stat": "1.2°C",
+				"statLabel": "Rise since 1880"
+			},
+			"water": {
+				"title": "Water Pollution",
+				"description": "Millions of people lack access to clean water",
+				"stat": "2B",
+				"statLabel": "People affected"
+			},
+			"energy": {
+				"title": "Energy Waste",
+				"description": "Overconsumption of fossil fuels accelerates crisis",
+				"stat": "80%",
+				"statLabel": "Energy from non-renewables"
+			},
+			"waste": {
+				"title": "Plastic Waste",
+				"description": "Tons of plastic end up in the oceans each year",
+				"stat": "11M",
+				"statLabel": "Tons annually"
+			}
+		},
+		"solutions": {
+			"shop": {
+				"title": "EcoMarket",
+				"description": "Buy and sell eco-friendly goods, services, and even electric cars"
+			},
+			"maps": {
+				"title": "EcoMaps",
+				"description": "Find parks, recycling points, and charging stations near you"
+			},
+			"freelance": {
+				"title": "EcoFreelance",
+				"description": "Hire specialists or volunteer for eco-projects"
+			},
+			"car": {
+				"title": "EcoCar",
+				"description": "Track your EV, stats, and achievements in eco-driving"
+			}
+		},
+		"howItWorks": {
+			"step1": {
+				"title": "Join",
+				"description": "Create your account and join our eco-conscious community"
+			},
+			"step2": {
+				"title": "Act",
+				"description": "Participate in eco-initiatives, shop sustainably, and connect"
+			},
+			"step3": {
+				"title": "Improve",
+				"description": "Track your impact and contribute to a greener tomorrow"
+			}
+		},
+		"feedback": {
+			"user1": {
+				"text": "EcoCityHub helped me find local eco initiatives and connect with like-minded people. Now our community has become more united!",
+				"role": "Eco-activist"
+			},
+			"user2": {
+				"text": "The platform opened new opportunities for my green business. The Eco-Store helped me find conscious buyers.",
+				"role": "Entrepreneur"
+			},
+			"user3": {
+				"text": "Thanks to EcoCityHub, I can make conscious choices for my family and contribute to a better future for my children.",
+				"role": "Mother and Eco-activist"
+			}
+		}
+	},
+	"account": {
+		"profileCompleteness": "Profile Completeness",
+		"ecoLevel": "Eco Level & Rank",
+		"ecoDriver": "Eco Driver",
+		"trackYourEV": "Track your environmental impact and unlock rewards",
+		"earnedAchievements": "Earned Achievements",
+		"inProgress": "In Progress",
+		"environmentalImpact": "Environmental Impact",
+		"walletBalance": "Wallet Balance",
+		"recentActivity": "Recent Activity"
+	},
+	"ecoMarket": {
+		"ecoMarketTitle": "Discover sustainable products that make a positive impact on our planet - From electric vehicles to biodegradable goods, sustainable solar solutions to eco-friendly car sharing",
+		"ecoMarketSubtitle": {
+			"part1": "Free shipping over $50",
+			"part2": "100% satisfaction guarantee",
+			"part3": "Carbon neutral shipping"
+		},
+		"products": {
+			"product1": {
+				"name": "Tesla Model 5",
+				"description": "Experience the future of driving with the Tesla Model 5, an all-electric vehicle that combines cutting-edge technology, exceptional performance, and zero emissions. With its sleek design, advanced autopilot features, and impressive range, the Model 5 is perfect for eco-conscious drivers who want to make a positive impact on the environment without compromising on style or comfort."
+			},
+			"product2": {
+				"name": "Electric Scooter Sharing",
+				"description": "Rent electric scooters for sustainable city transport - hourly or daily rates"
+			},
+			"product3": {
+				"name": "Home Solar Panel System 5kW",
+				"description": "Complete residential solar installation with 25-year warranty and smart"
+			},
+			"product4": {
+				"name": "Solar Power Bank 20000mAh",
+				"description": "Portable solar charging station with wireless charging capability"
+			},
+			"product5": {
+				"name": "Biodegradable Phone Case Set",
+				"description": "Compostable phone cases made from plant-based materials with screen"
+			},
+			"product6": {
+				"name": "Bamboo Fiber Water Bottle",
+				"description": "100% biodegradable water bottle with temperature control"
+			},
+			"product7": {
+				"name": "Organic Cotton Tote Bag",
+				"description": "Stylish and durable bag made from certified organic cotton"
+			},
+			"product8": {
+				"name": "LED Plant Grow Light",
+				"description": "Energy-efficient growing solution for indoor gardens"
+			},
+			"product9": {
+				"name": "Recycled Plastic Outdoor Chair",
+				"description": "Comfortable outdoor furniture made from ocean plastic waste"
+			},
+			"product10": {
+				"name": "Organic Skincare Set",
+				"description": "Natural skincare routine with zero-waste packaging"
+			}
+		},
+		"learnMoreProducts": "Learn More Products"
+	},
+	"ecoNews": {
+		"ecoNewsTitle": "Stay informed about the latest environmental developments and sustainability innovations",
+		"ecoNewsPlaceholder": "Search environmental news...",
+		"articles": {
+			"article1": {
+				"title": "New Solar Panel Technology Achieves 47% Efficiency Rating",
+				"description": "Revolutionary perovskite-silicon tandem cells break previous efficiency records in laboratory testing."
+			},
+			"article2": {
+				"title": "Ocean Plastic Cleanup Initiative Reports Record-Breaking Year",
+				"description": "Ocean cleanup organizations removed over 100,000 tons of plastic waste from marine environments in 2024."
+			},
+			"article3": {
+				"title": "Green Hydrogen Production Costs Drop by 30% in 2024",
+				"description": "Advancements in electrolysis technology and renewable energy integration drive down costs significantly."
+			},
+			"article4": {
+				"title": "Global Climate Summit 2025 Announces Breakthrough Carbon Capture Technology",
+				"description": "Revolutionary new carbon capture technology could reduce atmospheric CO₂ by 15% within the next decade, according to leading climate scientists at the Global"
+			},
+			"article5": {
+				"title": "Community-Led Reforestation Project Reaches 1 Million Trees Milestone",
+				"description": "Local communities across 12 countries have successfully planted over 1 million trees as part of the global reforestation initiative launched last year."
+			}
+		},
+		"learnMoreArticles": "Learn More Articles"
+	},
+	"ecoCause": {
+		"ecoCauseTitle": "Support impactful environmental projects and make a difference today",
+		"ecoCauseSubtitles": {
+			"part1": "Signatures Collected",
+			"part2": "Funds Raised",
+			"part3": "Successful Campaigns"
+		},
+		"petitions": "petitions",
+		"fundraising": "fundraising",
+		"signPetition": "Sign Petition",
+		"signatures": "Signatures",
+		"funded": "Funded",
+		"contributors": "Contributors",
+		"activePetitions": "Active Petitions",
+		"activeFundraising": "Active Fundraising",
+		"startaPetition": "Start a Petition",
+		"startFundraising": "Start Fundraising",
+		"donateNow": "Donate Now",
+		"projects": {
+			"project1": {
+				"title": "Ban Single-Use Plastics in All National Parks",
+				"description": "Protect our natural heritage by eliminating single-use plastics that harm wildlife and pollute pristine environments."
+			},
+			"project2": {
+				"title": "Mandate Solar Panels on New Commercial Buildings",
+				"description": "Accelerate renewable energy adoption by requiring solar installations on all new commercial construction projects."
+			},
+			"project3": {
+				"title": "Create Urban Wildlife Corridors",
+				"description": "Connect fragmented habitats in cities to help wildlife movement and biodiversity conservation."
+			},
+			"project4": {
+				"title": "Reforestation Project in Amazon Basin",
+				"description": "Plant 100,000 native trees to restore degraded forest areas and support local communities."
+			},
+			"project5": {
+				"title": "Clean Water Initiative for Rural Communities",
+				"description": "Provide access to clean drinking water through sustainable filtration systems in remote villages."
+			},
+			"project6": {
+				"title": "Ocean Plastic Cleanup Equipment",
+				"description": "Fund advanced cleanup vessels to remove plastic waste from ocean gyres and coastal areas."
+			}
+		},
+		"learnMoreProjects": "Learn More Projects"
+	},
+	"ecoMaps": {
+		"ecoMapsTitle": "Real-time environmental data, eco-friendly locations, and AI-powered alerts for a greener lifestyle",
+		"categories": {
+			"weather": "Weather",
+			"weatherSection": {
+				"currentWeather": "Current Weather",
+				"4dayForecast": "4-Day Forecast",
+				"humidity": "Humidity",
+				"windSpeed": "Wind Speed",
+				"uvIndex": "UV Index",
+				"airQualityIndex": "Air Quality",
+				"today": "Today",
+				"tomorrow": "Tomorrow",
+				"Thursday": "Thursday",
+				"Friday": "Friday",
+				"sunny": "Sunny",
+				"partlyCloudy": "Partly Cloudy",
+				"cloudy": "Cloudy",
+				"clouds": "Clouds"
+			},
+			"airQuality": "Air Quality",
+			"airQualitySection": {
+				"good": "Good",
+				"moderate": "Moderate",
+				"unhealthySensitive": "Unhealthy for Sensitive",
+				"unhealthy": "Unhealthy",
+				"veryUnhealthy": "Very Unhealthy",
+				"hazardous": "Hazardous"
+			},
+			"ecoPlaces": "Eco Places",
+			"ecoAlerts": "Eco Alerts",
+			"ecoAlertsSection": {
+				"alert": {
+					"wildlife": "Wildlife Risk",
+					"airQualityAlert": "Air Quality Alert",
+					"heatWave": "Heat Wave"
+				},
+				"riskLevel": {
+					"low": "Low",
+					"moderate": "Moderate",
+					"high": "High",
+					"severe": "Severe"
+				}
+			},
+			"aiPoweredAlerts": "AI-Powered Alerts",
+			"getPersonalized": "Get personalized environmental alerts based on your location and preferences",
+			"enableSmartAlerts": "Enable Smart Alerts"
+		}
+	},
+	"ecoJobs": {
+		"ecoJobsTitle": "Connect with green job opportunities and sustainability-focused professionals",
+		"ecoJobsSubtitles": {
+			"part1": "Active Jobs",
+			"part2": "Eco Professionals",
+			"part3": "Earned by Freelancers"
+		},
+		"jobTypes": {
+			"allTypes": "All Types",
+			"fullTime": "Full-Time",
+			"partTime": "Part-Time",
+			"contract": "Contract",
+			"internship": "Internship",
+			"remote": "Remote"
+		},
+		"locations": {
+			"allLocations": "All Locations",
+			"remote": "Remote",
+			"europe": "Europe",
+			"usa": "United States",
+			"asia": "Asia",
+			"australia": "Australia"
+		},
+		"browseJobs": "Browse Jobs",
+		"browseJobsSection": {
+			"browseJobsPlaceholder": "Search eco jobs by title, skill, or company...",
+			"applyNow": "Apply Now",
+			"saveJob": "Save Job",
+			"virified": "Verified",
+			"job1": {
+				"title": "Sustainability Consultant",
+				"description": "Help organizations implement sustainable practices and reduce their environmental footprint."
+			},
+			"job2": {
+				"title": "Environmental Data Analyst",
+				"description": "Analyze environmental data to identify trends and create actionable insights."
+			},
+			"job3": {
+				"title": "Organic Farm Manager",
+				"description": "Manage day-to-day operations of organic farming facility and team."
+			},
+			"job4": {
+				"title": "Climate Change Researcher",
+				"description": "Conduct research on climate change impacts and mitigation strategies."
+			},
+			"job5": {
+				"title": "Green Building Architect",
+				"description": "Design environmentally sustainable buildings and spaces."
+			}
+		},
+		"findFreelancers": "Find Freelancers",
+		"findFreelancersSection": {
+			"findFreelancersPlaceholder": "Search eco freelancers by skills or expertise...",
+			"searchFreelancers": "Search Freelancers",
+			"contact": "Contact",
+			"viewProfile": "View Profile",
+			"freelancerActivity": {
+				"busy": "Busy",
+				"available": "Available",
+				"offline": "Offline"
+			},
+			"freelancerSkills": {
+				"skill2": "Renewable Energy Engineer",
+				"skill3": "Sustainable Web Developer"
+			},
+			"freelancer1": {
+				"name": "Sarah Johnson",
+				"role": "Environmental Consulting",
+				"slills": {
+					"skill1": "Sustainability",
+					"skill2": "Environmental Impact Assessment",
+					"skill3": "Consulting"
+				}
+			},
+			"freelancer2": {
+				"name": "Marcus Chen",
+				"role": "Renewable Energy Engineer",
+				"slills": {
+					"skill1": "Solar Energy",
+					"skill2": "Wind Power",
+					"skill3": "Engineering"
+				}
+			},
+			"freelancer3": {
+				"name": "Emma Rodriguez",
+				"role": "Sustainable Web Developer",
+				"slills": {
+					"skill1": "Web Development",
+					"skill2": "Green Hosting",
+					"skill3": "Carbon Footprint Optimization"
+				}
+			}
+		},
+		"learnMoreJobs": "Learn More Jobs",
+		"viewAllFreelancers": "View All Freelancers"
+	},
+	"ecoCar": {
+		"ecoCarTitle": "Track your electric vehicle performance, earn eco-points, and compete with other eco-drivers",
+		"my": "My",
+		"batteryStatus": "Battery Status",
+		"performanceStats": "Performance Stats",
+		"currentCharge": "Current Charge",
+		"278km remaining": "278km Remaining",
+		"BatteryHealth": "Battery Health",
+		"maxRange": "Max Range",
+		"scheduleMaintenance": "Schedule Maintenance",
+		"findCharging": "Find Charging",
+		"upComingMaintenance": "UpComing Maintenance",
+		"Battery Health Check": "Battery Health Check",
+		"schedule": "Schedule",
+		"nearbyChargingStations": "Nearby Charging Stations",
+		"viewMap": "View Map",
+		"points": "Points",
+		"pointsToNextLevel": "Points to Next Level",
+		"ecoDrivingLeaderboard": "Eco-Driving Leaderboard",
+		"achivements": "Achievements"
+	},
+	"support": {
+		"supportTitle": "We're here to help you make the most of your eco-friendly journey",
+		"supportSubtitles": {
+			"part1": "Support Available",
+			"part2": "Satisfaction Rate",
+			"part3": "Avg Response Time"
+		},
+		"contactSection": {
+			"getSupport": "Get Support",
+			"sendMessage": "Send Message",
+			"liveChatSection": {
+				"title": "Live Chat",
+				"description": "Chat with our support team",
+				"available": "Available 9 AM - 6 PM PST",
+				"responseTime": "Average response time: 5 minutes"
+			},
+			"sendUsEmail": "Send Us a Message"
+		},
+		"faqSection": {
+			"faqTitle": "Frequently Asked Questions",
+			"faqPlaceholder": "Search FAQs...",
+			"faq1": {
+				"question": "How do I get started with EcoCityHub?",
+				"answer": "Simply create a free account and explore our platform. You can browse eco-friendly products, read environmental news, and join our community initiatives."
+			},
+			"faq2": {
+				"question": "Is the Eco-Shop shipping carbon neutral?",
+				"answer": "Yes! All our shipping is 100% carbon neutral. We offset all delivery emissions and use sustainable packaging materials."
+			},
+			"faq3": {
+				"question": "How accurate are the air quality readings?",
+				"answer": "Our air quality data comes from certified monitoring stations and is updated every hour. We partner with environmental agencies for accurate readings."
+			},
+			"faq4": {
+				"question": "Can I post freelance jobs for environmental projects?",
+				"answer": "Absolutely! You can post job listings for environmental, sustainability, and green technology projects. All listings are reviewed for relevance."
+			},
+			"faq5": {
+				"question": "How do you verify eco-friendly products?",
+				"answer": "We have a strict verification process that includes third-party certifications, sustainability audits, and environmental impact assessments."
+			},
+			"getContact": {
+				"title": "Didn't find what you're looking for?",
+				"description": "Our support team is here to help with any questions you might have.",
+				"contactSupport": "Contact Support"
+			}
+		},
+		"FeedBackSection": {
+			"feedbackTitle": "Share Your Feedback",
+			"feedbackDescription": "Your feedback helps us improve EcoCityHub and create a better experience for everyone.",
+			"yourFeedback": "Your Feedback",
+			"featureRequest": "Feature Request",
+			"featureRequestSection": {
+				"featureTitle": "Feature Title",
+				"titlePlaceholder": "What feature would you like to see?",
+				"featureDescription": "Description",
+				"descriptionPlaceholder": "Describe your feature request in detail...",
+				"submitRequest": "Submit Request"
+			},
+			"generalFeedback": "General Feedback",
+			"generalFeedbackSection": {
+				"rating": "Overall Rating",
+				"yourFeedback": "Your Feedback",
+				"feedbackPlaceholder": "Tell us about your experience with EcoCityHub...",
+				"submitFeedback": "Submit Feedback"
+			},
+			"shareYourSuccessStorySection": {
+				"shareYourSuccessStory": "Share Your Success Story",
+				"storySubtitle": "Have you made a positive environmental impact using EcoCityHub? We'd love to hear about it!",
+				"shareYourStory": "Share Your Story"
+			}
+		}
+	},
+	"sidebar": {
+		"navigation": "Navigation",
+		"sidebarTitle": "Explore our platform",
+		"home": "Home",
+		"homeSubtitle": "Main Page",
+		"profile": "Profile",
+		"profileSubtitle": "Your Profile",
+		"ecoMarket": "EcoMarket",
+		"ecoMarketSubtitle": "Sustainable Products",
+		"ecoNews": "EcoNews",
+		"ecoNewsSubtitle": "Environmental News",
+		"ecoCause": "EcoCause",
+		"ecoCauseSubtitle": "Support Projects",
+		"ecoMaps": "EcoMaps",
+		"ecoMapsSubtitle": "Environmental Data",
+		"ecoJobs": "EcoJobs",
+		"ecoJobsSubtitle": "Possibility of Green Jobs",
+		"ecoCar": "EcoCar",
+		"ecoCarSubtitle": "Track Your EV",
+		"support": "Support",
+		"supportSubtitle": "Help & Feedback",
+		"exit": "Exit",
+		"exitSubtitle": "Exit from account",
+		"sidebarSubtitle": "Creating a sustainable future together"
+	},
+	"footer": {
+		"welcome": "Welcome to EcoCityHub",
+		"quickLinks": "Quick Links",
+		"contactus": "Contact Us",
+		"stayUpdated": "Stay Updated",
+		"getTheLatest": "Get the latest eco-friendly tips and platform updates",
+		"policy": "By continuing, you agree to our Terms of Service and Privacy Policy."
+	}
+}

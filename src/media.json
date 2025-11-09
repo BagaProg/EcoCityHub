@@ -1,0 +1,97 @@
+{
+	"images": {
+		"homepage": [
+			{
+				"url": "https://images.unsplash.com/photo-1693517596637-8190ac7afc0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlY28lMjBjaXR5JTIwc3VzdGFpbmFibGUlMjBncmVlbiUyMHNtYXJ0fGVufDF8fHx8MTc1NzE4NzUzNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Smart green city",
+				"description": "Hero section image showing sustainable smart city technology"
+			},
+			{
+				"url": "https://images.unsplash.com/photo-1715198901384-0b7ff9f37a77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdXN0YWluYWJsZSUyMHRlY2hub2xvZ3klMjBpbm5vdmF0aW9uJTIwZ3JlZW58ZW58MXx8fHwxNzU3MTg3NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Sustainable technology innovation",
+				"description": "Solution section image showing sustainable technology innovation"
+			}
+		],
+		"eco-shop": [
+			{
+				"url": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlY28lMjBmcmllbmRseSUyMHByb2R1Y3RzJTIwc3VzdGFpbmFibGV8ZW58MXx8fHwxNzU3MTg3NTY5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Eco-friendly sustainable products",
+				"description": "Hero section showing eco-friendly sustainable products"
+			},
+			{
+				"url": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlY28lMjBmcmllbmRseSUyMGhvbWUlMjBwcm9kdWN0c3xlbnwxfHx8fDE3NTcxODc2MDB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Eco-friendly home products",
+				"description": "Bamboo straws and eco-friendly home products"
+			},
+			{
+				"url": "https://images.unsplash.com/photo-1588964895597-cfccd6e2dbf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdXN0YWluYWJsZSUyMGZhc2hpb24lMjBlY28lMjBjbG90aGluZ3xlbnwxfHx8fDE3NTcxODc2MDF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Sustainable fashion eco clothing",
+				"description": "Sustainable organic cotton t-shirt"
+			},
+			{
+				"url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlY28lMjBmcmllbmRseSUyMGJlYXV0eSUyMHByb2R1Y3RzfGVufDF8fHx8MTc1NzE4NzYwMnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Eco-friendly beauty products",
+				"description": "Natural skincare serum"
+			}
+		],
+		"news": [
+			{
+				"url": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudGFsJTIwbmV3cyUyMGNsaW1hdGUlMjBjaGFuZ2V8ZW58MXx8fHwxNzU3MTg3NjA5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Environmental news climate change",
+				"description": "Breaking: New climate change report shows urgent need for action"
+			},
+			{
+				"url": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZW5ld2FibGUlMjBlbmVyZ3klMjBzb2xhciUyMHBhbmVsc3xlbnwxfHx8fDE3NTcxODc2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Renewable energy solar panels",
+				"description": "Solar energy capacity reaches record high globally"
+			}
+		],
+		"petitions": [
+			{
+				"url": "https://images.unsplash.com/photo-1569163139610-de0c7c71dfc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudGFsJTIwYWN0aXZpc20lMjBwcm90ZXN0fGVufDF8fHx8MTc1NzE4NzYxMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Environmental activism protest",
+				"description": "Save the Amazon Rainforest petition"
+			},
+			{
+				"url": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvY2VhbiUyMGNsZWFudXAlMjBwbGFzdGljJTIwcG9sbHV0aW9ufGVufDF8fHx8MTc1NzE4NzYxMnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Ocean cleanup plastic pollution",
+				"description": "Ocean cleanup initiative fundraising campaign"
+			}
+		],
+		"eco-maps": [
+			{
+				"url": "https://images.unsplash.com/photo-1503435824048-a799a3a84bf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudGFsJTIwbW9uaXRvcmluZyUyMGRhdGF8ZW58MXx8fHwxNzU3MTg3NjEzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Environmental monitoring data",
+				"description": "Real-time environmental monitoring and data visualization"
+			}
+		],
+		"eco-freelance": [
+			{
+				"url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGpvYnMlMjBlbnZpcm9ubWVudGFsJTIwd29ya3xlbnwxfHx8fDE3NTcxODc2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Green jobs environmental work",
+				"description": "Discover sustainable job opportunities"
+			}
+		],
+		"eco-car-hub": [
+			{
+				"url": "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGNhciUyMGV2JTIwc3VzdGFpbmFibGV8ZW58MXx8fHwxNzU3MTg3NjE1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Electric car EV sustainable",
+				"description": "Electric vehicle charging - sustainable transportation"
+			}
+		],
+		"support": [
+			{
+				"url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjdXN0b21lciUyMHN1cHBvcnQlMjBoZWxwJTIwY2VudGVyfGVufDF8fHx8MTc1NzE4NzYxNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Customer support help center",
+				"description": "24/7 customer support and help center"
+			}
+		],
+		"profile": [
+			{
+				"url": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlY28lMjBhY2hpZXZlbWVudHMlMjBncmVlbiUyMGxpdmluZ3xlbnwxfHx8fDE3NTcxODc2MTd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+				"alt": "Eco achievements green living",
+				"description": "Track your environmental impact and achievements"
+			}
+		]
+	}
+}
