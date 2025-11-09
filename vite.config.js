@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/EcoCityHub/",
+  base: "./",
   plugins: [react(), tailwindcss(),],
   proxy: {
     '/api': 'http://localhost:5000'
