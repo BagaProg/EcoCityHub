@@ -1,5 +1,5 @@
 import MaintitleSection from "../ui/MainTitleSection";
-import RadioButton from "../ui/radioButton";
+import RadioButton from "../ui/RadioButton";
 import { useTranslation } from "react-i18next";
 import { useState, useEffect, } from "react";
 import axios from "axios";
