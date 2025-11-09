@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<твое_имя>.github.io/EcoCityHub",
+  "homepage": "https://BagaProg.github.io/EcoCityHub",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
