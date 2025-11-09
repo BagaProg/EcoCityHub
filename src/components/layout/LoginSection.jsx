@@ -1,5 +1,5 @@
 import { useState, useContext } from "react";
-import RadioButton from "../ui/radioButton";
+import RadioButton from "../ui/RadioButton";
 import { LogInIcon, UserPlus } from "lucide-react";
 import InputBlock from "../ui/InputBlock";
 import { useTranslation } from "react-i18next";
