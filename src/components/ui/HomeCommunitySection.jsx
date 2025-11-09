@@ -1,6 +1,6 @@
 import SectionTitle from "./SectionTitle";
 import { useTranslation } from "react-i18next";
-import ReviewBlock from "./reviewBlock";
+import ReviewBlock from "./КeviewBlock";
 
 export default function HomeCommunitySection() {
 	const { t } = useTranslation();
